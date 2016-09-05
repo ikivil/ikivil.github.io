@@ -2,6 +2,7 @@
 .htaccess
 .DS_Store
 .sass-cache
+.bak
 Gemfile.lock
 _site/
 _drafts/
