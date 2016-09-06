@@ -12,9 +12,9 @@ My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 
 ### Local jekyll view
 
-* git clone `https://github.com/ikivil/ikivil.github.io.git`
+* 克隆到本地 `git clone https://github.com/ikivil/ikivil.github.io.git`
 * 进入目录 `cd ikivil.github.io`
-* jekyll serve
+* 命令行输入 `jekyll serve`
 * 浏览器输入地址 `http://localhost:4000/`
 
 
