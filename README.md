@@ -17,6 +17,10 @@ My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 * 命令行输入 `jekyll serve`
 * 浏览器输入地址 `http://localhost:4000/`
 
+### 发布文章
+
+* `utf-8`格式`markdown`文件发布至`_posts`
+
 
 ### License
 All this stuff is under the [MIT License](https://raw.githubusercontent.com/getmicah/getmicah.github.io/master/LICENSE)
