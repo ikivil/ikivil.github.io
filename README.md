@@ -20,6 +20,9 @@ My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 ### 发布文章
 
 * `utf-8`格式`markdown`文件发布至`_posts`
+* `git add .`
+* `git commit -m "add post"`
+* `git push origin master`
 
 
 ### License
