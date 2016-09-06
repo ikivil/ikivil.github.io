@@ -2,6 +2,7 @@
 permalink: /blog/:title
 
 
+
 # My variables
 name: LJW
 description: Futuristic web design
@@ -21,7 +22,8 @@ sass:
 
 # Markdown
 markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#  highlighter: rouge
+encoding: utf-8
