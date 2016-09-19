@@ -27,3 +27,9 @@ markdown: kramdown
 #   hard_wrap: false
 #  highlighter: rouge
 encoding: utf-8
+
+# Comment setting
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : ikivil
