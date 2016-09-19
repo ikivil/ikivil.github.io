@@ -13,9 +13,11 @@ comments :
   provider : duoshuo
   duoshuo :
     short_name : freehyan
-````  
+```` 
+
 :two: 编辑 `_layouts/post.html` 添加
-````
+
+```html
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="{{page.url}}"></div>
 <!-- 多说评论框 end -->
