@@ -4,11 +4,11 @@ title:  "添加评论 to Jekyll! "
 date:   2016-09-19 10:13:13 +0800
 categories: jekyll update
 ---
-## jekyll 添加 `多说` 评论功能
-
-> 1. 注册 [多说](http://duoshuo.com/)
- 
-> 2. 编辑 `_config.yml` 添加  
+## jekyll 添加 `多说` 评论功能  
+<br />
+### 1. 注册 [多说](http://duoshuo.com/)
+<br />
+### 2. 编辑 `_config.yml` 添加  
 
 ``` java
 # Comment setting
@@ -17,8 +17,8 @@ comments :
   duoshuo :
     short_name : 自己注册的short_name
 ```
-
-> 3. 编辑 `_layouts/post.html` 添加
+<br />
+### 3. 编辑 `_layouts/post.html` 添加
 
 ```html
 <!-- 多说评论框 start -->
@@ -38,12 +38,12 @@ var duoshuoQuery = {short_name:"ikivil"};
 	</script>
 <!-- 多说公共JS代码 end -->
 ```
-*
-上面三处需要替换为自己内容
-data-thread-key="{{ page.id }}"  
-data-title="{{ page.title }}"  
-data-url="{{page.url}}" 
-*  
+<br />
+### 4. 上面三处需要替换为自己内容  
+<br />
+* data-thread-key="\{\{ page.id \}\}"
+* data-title="\{\{ page.title \}\}"
+* data-url="\{\{page.url\}\}"
 
 {% highlight ruby %}
 jekyll serve
