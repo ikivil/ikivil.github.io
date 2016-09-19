@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "添加评论 to Jekyll! "
+title:  "GitHub Jekyll 博客添加评论! "
 date:   2016-09-19 10:13:13 +0800
 categories: jekyll update
 ---
