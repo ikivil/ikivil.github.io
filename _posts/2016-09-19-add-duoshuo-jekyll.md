@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "添加评论 to Jekyll! "
-date:   2016-09-19 13:13:13 +0800
+date:   2016-09-19 10:13:13 +0800
 categories: jekyll update
 ---
 ## jekyll 添加 `多说` 
